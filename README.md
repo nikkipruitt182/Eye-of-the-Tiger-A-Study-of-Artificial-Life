@@ -1,1 +1,6 @@
-# Eye-of-the-Tiger-A-Study-of-Artificial-Life
+#Student Symposium Presentation
+##Shannon Bolton and Nikki Pruitt
+###February 17, 2016
+
+##Abstract
+??
